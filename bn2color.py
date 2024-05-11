@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 
-# 指定文件夹路径
+# 指定文件夹 路径
 folder_path = '/opt/AI_Algorithm/Painter/datasets/ade20k/annotations_with_color/training'
 
 # 遍历文件夹中的所有文件
